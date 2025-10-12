@@ -1,5 +1,5 @@
 # 💫 About Me:
- Fresh graduate in Informatics Engineering with strong interest in machine learning, data science,<br> and software development. Experienced in building ML models and web applications, with<br> proven skills in teamwork and adaptability through academic exchange and project-based<br> learning
+ Fresh graduate in Computer Science with strong interest in machine learning, data science,<br> and software development. Experienced in building ML models and web applications, with<br> proven skills in teamwork and adaptability through academic exchange and project-based<br> learning
 
 
 ## 🌐 Socials:
