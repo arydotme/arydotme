@@ -1,5 +1,5 @@
 # 💫 About Me:
- Fresh graduate in Computer Science with strong interest in machine learning and ai engineer. Experienced in building ML models generative ai, with proven skills in teamwork and adaptability through academic exchange and project-based learning
+ Fresh graduate in Computer Science with strong interest in machine learning and ai engineer. Experienced in building machine learning models and generative ai, with proven skills in teamwork and adaptability through academic exchange and project-based learning
 
 
 ## 🌐 Socials:
